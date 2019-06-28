@@ -1,11 +1,18 @@
 # TelecomsXChange -  Smart Contract for the Blockchain
-This smart contract is responsible for processing important data from buyers and sellers on the exchange to save it on the blockchain as a reference.
+This smart contract is responsible for processing important text data from buyers and sellers on the exchange to save it on the blockchain as a reference.
+
+P.S: This smart contract publishes up to 32 bytes at a time.
 
 How we use this Smart Contract at TelecomsXChange:
 
 - Sellers can sync their payout (balance) to the blockchain
 
 - Buyers can sync their prepaid balance to the blockchain
+
+
+What other potential uses:
+
+This smart contract pushes any sort of text to the blockchain, so you can store any valuable data to the blockchain like CDRs, SDRs, 
 
 
 Live Contract Viewer:

@@ -9,10 +9,14 @@ How we use this Smart Contract at TelecomsXChange:
 
 - Buyers can sync their prepaid balance to the blockchain
 
+Since miners prefer smaller transactions because easier to fit them in block, the typical token transfer if around 50k gasm, our TX is 25k gas which is less and affordable.
+
+We hope you find it useful and enable you to easily put important data on the blockchain.
+
 
 What other potential uses:
 
-This smart contract pushes any sort of text to the blockchain, so you can store any valuable data to the blockchain like CDRs, SDRs, 
+This smart contract pushes any sort of text to the blockchain, so you can store any valuable data to the blockchain like CDRs, SDRs or simply any text that you think is valauble.
 
 
 Live Contract Viewer:

@@ -15,10 +15,12 @@ Since miners prefer smaller transactions because easier to fit them in block, th
 We hope you find it useful and enable you to easily put important data on the blockchain.
 
 
-What other potential uses:
+### What other potential uses:
 
 This smart contract pushes any sort of text to the blockchain, so you can store any valuable data to the blockchain like CDRs, SDRs or simply any text that you think is valauble.
 
+
+### Demo 
 
 Live Contract Viewer:
 
@@ -26,7 +28,8 @@ Live Contract Viewer:
 
 Sample Transaction Viewer:
 
-- https://blockscout.com/etc/mainnet/tx/0xf0f76082a3e4f0af117f872819ad6377e7e7e9726c548aa688d03d0d06133f39/internal_transactions 
+
+- [https://blockscout.com/etc/mainnet/tx/0xf0f76082a3e4f0af117f872819ad6377e7e7e9726c548aa688d03d0d06133f39/internal_transactions ](https://blockscout.com/etc/mainnet/tx/0xf0f76082a3e4f0af117f872819ad6377e7e7e9726c548aa688d03d0d06133f39)
 
 
 

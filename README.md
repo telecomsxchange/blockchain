@@ -1,15 +1,16 @@
-# TelecomsXChange -  Smart Contract for the Blockchain
-This smart contract is responsible for processing important text data from buyers and sellers on the exchange to save it on the blockchain as a reference.
+# TelecomsXChange (TCXC) -  Smart Contract for the Blockchain
 
-P.S: This smart contract publishes up to 32 bytes at a time.
+This smart contract is responsible for processing important data (string values)from the centrelized application and save it on the blockchain for future refernece. For example backup buyer prepaid balance every 1 hour and save it on the blockchain.
+
+`P.S: This smart contract publishes up to 32 bytes at a time.`
 
 How we use this Smart Contract at TelecomsXChange:
 
-- Sellers can sync their payout (balance) to the blockchain
+- Sellers can sync their wallet (balance) to the blockchain every X minutes, hours, days.
 
-- Buyers can sync their prepaid balance to the blockchain
+- Buyers can sync their prepaid balance to the blockchain every X minutes, hours, days.
 
-Since miners prefer smaller transactions because easier to fit them in block, the typical token transfer if around 50k gasm, our TX is 25k gas which is less and affordable.
+Since miners prefer smaller transactions because easier to fit them in block, the typical token transfer if around `50k gasm`, This smart contract TX is `25k gas` which is less and affordable.
 
 We hope you find it useful and enable you to easily put important data on the blockchain.
 
@@ -21,11 +22,11 @@ This smart contract pushes any sort of text to the blockchain, so you can store 
 
 Live Contract Viewer:
 
-https://blockscout.com/etc/mainnet/address/0xaa8914afef5d4b2041156f1315cb83c8ac76c965/contracts 
+- https://blockscout.com/etc/mainnet/address/0xaa8914afef5d4b2041156f1315cb83c8ac76c965/contracts `
 
-Transaction Viewer: 
+Sample Transaction Viewer:
 
-https://blockscout.com/etc/mainnet/tx/0xf0f76082a3e4f0af117f872819ad6377e7e7e9726c548aa688d03d0d06133f39/internal_transactions
+- https://blockscout.com/etc/mainnet/tx/0xf0f76082a3e4f0af117f872819ad6377e7e7e9726c548aa688d03d0d06133f39/internal_transactions 
 
 
 
